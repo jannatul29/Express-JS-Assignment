@@ -11,9 +11,8 @@
 ### Used Api: https://api.weatherapi.com/
 
 ### After cloning this assignment please the steps:
-1. npm init (execute for npm install)
-2. npm run start (execute for server run)
-3. Searching URL(e.g.): http://localhost:3000/all/Bangladesh/Dhaka/2021-12-25
+1. npm run start (execute for server run)
+2. Searching URL(e.g.): http://localhost:3000/all/Bangladesh/Dhaka/2021-12-25
 
 ## Assignment Details
 ### It shows weather changing in whole days in different time spam
@@ -37,7 +36,7 @@
 2. If pug's file indentation was not correct, then gives error. But we know that, if html file does not give any error for indentation.
 
 ## Existing error
-If anyone search incorrect location, it gives incorrect location and search correct location, it gives correct output (shown in 5,6,7 no. screenshots). Somethimes it is not working (shown in screenshots 8). 
+If anyone search incorrect location, it gives incorrect location and search correct location, it gives correct output (shown in 5,6,7 no. screenshots). Somethimes it is not working (shown in screenshots 8), but same code works properly in my personal laptop. 
 ##### I use this logic:
 - if( object.location.name == req.params.city ){
       .
